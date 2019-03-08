@@ -1,0 +1,1 @@
+ DOMACS corpus includes a 300-hour training set and a 50-hour testing set, covering 2 wakeup words, 10 voice commands, collecting from 150 speakers.
